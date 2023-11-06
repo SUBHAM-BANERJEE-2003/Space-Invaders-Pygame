@@ -14,4 +14,4 @@ r to restart the game after game over
 # To play:
 
 just clone this repo, install pygame by doing > pip install pygame.
-and run the code.
+and run the spacegame.py file by command > python spacegame.py
